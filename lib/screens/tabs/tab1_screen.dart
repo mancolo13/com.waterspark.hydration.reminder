@@ -111,7 +111,7 @@ class _Tab1ScreenState extends State<Tab1Screen> {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         Text('Session record #$i', style: const TextStyle(color: AppTheme.textSecondary)),
-                        Text('+${i * 12 + t_idx * 4} pts', style: const TextStyle(color: AppTheme.secondary, fontWeight: FontWeight.bold)),
+                        Text('+${i * 12 + 1 * 4} pts', style: const TextStyle(color: AppTheme.secondary, fontWeight: FontWeight.bold)),
                       ],
                     ),
                     const Divider(height: 16, color: Colors.white12),
