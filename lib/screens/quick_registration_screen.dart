@@ -60,7 +60,7 @@ class QuickRegistrationScreen extends StatelessWidget {
       'headline': 'Cadastro',
       'headlineAccent': 'Rápido',
       'description':
-          'Cadastre-se no site e tenha acesso à oferta atual. O cadastro leva apenas alguns minutos.',
+          'Cadastre-se no site e tenha acesso à oferta actual. O cadastro leva apenas alguns minutos.',
       'cta': 'Ir para o cadastro',
       'footer': 'O site de cadastro será aberto após clicar.',
     },

@@ -17,4 +17,8 @@ class RoutingService {
       return false;
     }
   }
+
+  static Future<bool> openPartnerLink([String? url]) async {
+    return openRegistrationUrl(url);
+  }
 }
