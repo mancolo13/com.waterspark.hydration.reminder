@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.waterspark.hydration.reminder
 
 import io.flutter.embedding.android.FlutterActivity
 
