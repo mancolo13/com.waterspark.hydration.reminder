@@ -37,7 +37,7 @@ class _Tab2ScreenState extends State<Tab2Screen> {
               decoration: BoxDecoration(
                 color: AppTheme.card,
                 borderRadius: BorderRadius.circular(16),
-                border: Border.all(color: AppTheme.primary.withOpacity(0.3)),
+                border: Border.all(color: AppTheme.primary.withValues(alpha: 0.3)),
               ),
               child: Column(
                 children: [
